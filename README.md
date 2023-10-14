@@ -1,6 +1,6 @@
 # Belly_Button-Challenge
 
-- My dashboard was deployed at https://lmuliokela.github.io/Belly_Button-Challeng/
+My dashboard was deployed at https://lmuliokela.github.io/Belly_Button-Challeng/
 
 ---
 
